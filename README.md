@@ -36,7 +36,7 @@ Hi, I'm **Nkosinath Ngwenya**, a BSc Computer Science student at **TUKS** and an
     <img src="https://komarev.com/ghpvc/?username=your-username&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github/followers/NuttyHack?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 

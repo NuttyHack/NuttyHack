@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Nkosinath%20Ngwenya&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-Hi, I'm **Nkosinath Ngwenya**, a BSc Computer Science student at **TUKS** and an **AI Developer**  
+Hi, I'm **Nkosinathi Ngwenya**, a BSc Computer Science student at **TUKS** and an **AI Developer**  
 
 💡 *“Building intelligence, one model at a time—where code meets cognition.”*
 

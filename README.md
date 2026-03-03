@@ -68,12 +68,12 @@ Hi, I'm **Nkosinathi Ngwenya**, a BSc Computer Science student at **TUKS** and a
 <img src="https://streak-stats.demolab.com?user=NuttyHack&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
-
 ### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuttyHack&layout=compact&langs_count=8&theme=radical" height="170em"/>
-
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=light" />
+  </a>
+</p>
 
 ### ✍️ Random AI Dev Quote
 <p align="center">
